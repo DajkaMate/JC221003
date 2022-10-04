@@ -62,7 +62,7 @@ public class Konyvek_221003 {
                 
         int max = konyvek[0];
         String maxnev = nevek[0];
-        for(int j=1; j < j; j++)
+        for(int j=1; j < konyvek.length; j++)
         {
             if(konyvek[j] > max)
             {
